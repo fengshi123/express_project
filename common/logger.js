@@ -1,15 +1,15 @@
 /*
   多container及多transport组合
  */
-const { createLogger, format, transports } = require('winston');
-const { combine, timestamp, printf } = format;
-const path = require('path');
+var { createLogger, format, transports } = require('winston');
+var { combine, timestamp, printf } = format;
+var path = require('path');
 
-const myFormat = printf(({ level, message, label, timestamp }) => {
+var myFormat = printf(({ level, message, label, timestamp }) => {
   return `${timestamp} ${level}: ${message}`;
 });
 
-const logger = createLogger({
+var logger = createLogger({
   level: 'error',
   format: combine(
     timestamp(),

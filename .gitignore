@@ -1,1 +1,10 @@
 node_modules
+log
+public/upload
+public/exam
+user_disk
+user_video
+npm-debug.log
+public/app_version
+public/user_disk
+public/user_video

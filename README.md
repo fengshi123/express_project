@@ -1,12 +1,23 @@
-# express_project
-本文我们主要介绍通过 express-generator 搭建 express 项目，以及 express 项目如何与数据库交互、express项目如何记录项目日志、以及利用 domain 捕获 uncaughtException 异常，解决node 服务退出问题、以及在项目中添加 ESlint 代码检查规范；
- 
-## 构建步骤
+## 介绍
 
-需要 Node.js 7+ （作者使用的版本为：node.js 8.2.1 npm 5.3.0）
+express 服务端项目，包括以下：mysql 结合、日志记录、错误捕获、token 认证、跨域配置、自动重启 等一系列常见的功能。
 
-安装插件：npm install
+**node.js 版本为：11.12.0**
 
-运行示例：npm start
+**npm 版本为：6.7.0**
 
-浏览器打开：http://localhost:3000
+## 启动
+
+``` bash
+1、进入到目录底下，安装插件，例如 express_project 目录底下
+$ npm install
+2、初始化 sql 脚本，需要进入目录 /express_project/bin/db/,执行以下脚本语句
+$ setup.sh
+3、开发环境启动项目
+$ npm run dev
+4、正式环境启动项目
+$ npm run start
+5、浏览器打开
+http://localhost:3000
+```
+

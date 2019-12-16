@@ -1,21 +1,30 @@
 {
-  "name": "backend",
+  "name": "express_project",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www",
+    "dev": "nodemon ./app",
+    "start": "node ./app",
     "lint": "eslint router --fix"
   },
   "dependencies": {
+    "body-parser": "^1.19.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "domain": "0.0.1",
+    "ejs": "^2.6.2",
     "express": "~4.16.0",
+    "express-jwt": "^5.3.1",
+    "express-ws": "^4.0.0",
+    "fs-extra": "^8.1.0",
     "http-errors": "~1.6.2",
     "jade": "~1.11.0",
+    "jsonwebtoken": "^8.5.1",
     "moment": "^2.24.0",
     "morgan": "~1.9.0",
+    "multiparty": "^4.2.1",
     "mysql": "^2.17.1",
+    "nodemon": "^1.19.4",
     "winston": "^3.2.1"
   },
   "devDependencies": {

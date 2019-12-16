@@ -2,11 +2,16 @@ var express = require('express');
 var router = express.Router();
 
 var userDao = require('../dao/userDao');
+var common = require('../dao/common.js');
 
 /* GET users listing. */
 router.get('/', function (req, res, next) {
   res.send('respond with a resource');
-  // res.render('query');
+});
+
+// 上传文件
+router.post('/upload', function (req, res, next) {
+  common.upload(req, res, next);
 });
 
 // 增加用户

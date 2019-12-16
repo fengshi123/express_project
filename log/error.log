@@ -21,4 +21,202 @@
 2019-06-28T09:11:37.694Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
 2019-06-28T09:11:38.354Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
 2019-06-28T09:19:27.953Z error: ER_NO_SUCH_TABLE: Table 'research.t_user1' doesn't exist
-2019-06-28T09:35:22.547Z error: ER_NO_SUCH_TABLE: Table 'research.t_user1' doesn't exist
+2019-06-28T09:35:22.547Z error: ER_NO_SUCH_TABLE: Table 'research.t_user1' doesn't exist2019-07-04T11:27:38.403Z error: ER_BAD_NULL_ERROR: Column 'uid' cannot be null
+2019-07-04T11:32:07.159Z error: ER_BAD_NULL_ERROR: Column 'uid' cannot be null
+2019-07-04T11:41:38.169Z error: ER_BAD_NULL_ERROR: Column 'uid' cannot be null
+2019-07-04T11:43:25.844Z error: ER_BAD_NULL_ERROR: Column 'uid' cannot be null
+2019-07-04T11:45:08.433Z error: ER_BAD_NULL_ERROR: Column 'uid' cannot be null
+2019-07-05T11:35:29.178Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:35:29.194Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:38:06.605Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:38:06.625Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:39:53.100Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:39:53.135Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:45:25.264Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:45:25.283Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:45:48.712Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:45:48.741Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:50:21.492Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:50:21.516Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:52:20.966Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:52:20.991Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:53:20.781Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:56:11.990Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:56:50.452Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:57:26.567Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T11:58:00.876Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T12:01:33.152Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-05T12:02:52.196Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T01:36:07.018Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T01:36:08.620Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T01:36:08.689Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T01:36:09.159Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T01:36:09.198Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T01:36:10.830Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T02:28:25.545Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T02:28:26.043Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T02:28:26.300Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T02:28:26.525Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T09:36:09.906Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T09:36:11.091Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T09:36:11.447Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T09:36:11.489Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T09:36:11.574Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T09:36:11.855Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-09T11:21:42.444Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-11T01:56:42.097Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-11T01:59:56.008Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-11T02:18:10.332Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-11T04:58:54.238Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-11T05:01:11.298Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-11T05:02:35.955Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-11T05:05:15.599Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-11T05:07:22.682Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-11T05:11:10.413Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-11T11:52:45.548Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-11T11:52:49.053Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-11T11:52:52.215Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-11T11:53:31.239Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-12T02:57:21.728Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-12T02:57:22.686Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-15T02:23:16.551Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-17T03:27:56.200Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-17T03:28:25.178Z error: ENOENT: no such file or directory, open 'F:\research\backend\users\1\undefined.txt'
+2019-07-17T03:30:25.509Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-17T03:30:39.491Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-17T03:39:08.549Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-17T03:42:41.213Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-17T03:42:45.021Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-17T03:42:53.487Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-17T03:43:34.944Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-17T09:23:27.685Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-17T09:23:37.824Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-17T09:23:52.002Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-17T09:24:14.532Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-17T09:24:45.122Z error: ENOENT: no such file or directory, scandir 'F:\research\backend\users\1'
+2019-07-24T03:26:39.267Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\测试.txt'
+2019-07-25T12:28:25.171Z error: EEXIST: file already exists, mkdir 'F:\research\backend\users\1'
+2019-07-25T12:28:36.269Z error: EEXIST: file already exists, mkdir 'F:\research\backend\users\1\qq'
+2019-07-25T12:47:06.636Z error: ER_BAD_NULL_ERROR: Column 'question_id' cannot be null
+2019-07-26T00:58:44.875Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\1560947463701.jpg'
+2019-07-26T00:58:47.220Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\1560947463701.jpg'
+2019-07-26T00:58:49.375Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\1560947463701.jpg'
+2019-07-26T00:58:51.933Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\1560947463701.jpg'
+2019-07-26T00:58:54.305Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\1560947463701.jpg'
+2019-07-26T00:58:56.559Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\1560947463701.jpg'
+2019-07-26T00:59:01.185Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\Screenshot_20190724_140810_com.iflytek.elpmobile.marktool.jpg'
+2019-07-26T00:59:03.469Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\IMG_20190119_161046.jpg'
+2019-07-26T00:59:05.779Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\IMG_20190119_161046.jpg'
+2019-07-26T00:59:07.895Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\IMG_20190119_161046.jpg'
+2019-07-26T00:59:12.277Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\IMG_20190119_161046.jpg'
+2019-07-26T00:59:14.360Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\Screenshot_20190724_140810_com.iflytek.elpmobile.marktool.jpg'
+2019-07-26T00:59:16.246Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\IMG_20190119_161046.jpg'
+2019-07-26T00:59:18.410Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\IMG_20190119_161046.jpg'
+2019-07-26T00:59:20.481Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\Screenshot_20190724_140810_com.iflytek.elpmobile.marktool.jpg'
+2019-07-26T00:59:23.061Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\wx_camera_1563806120896.jpg'
+2019-07-26T00:59:25.498Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\wx_camera_1563806120896.jpg'
+2019-07-26T00:59:28.024Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\一.txt'
+2019-07-26T00:59:30.269Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\wx_camera_1563806120896.jpg'
+2019-07-26T00:59:32.301Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\Screenshot_20190724_140810_com.iflytek.elpmobile.marktool.jpg'
+2019-07-26T00:59:34.287Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\IMG_20190119_161046.jpg'
+2019-07-26T00:59:36.308Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\IMG_20190119_161046.jpg'
+2019-07-26T00:59:38.165Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\IMG_20190119_161046.jpg'
+2019-07-26T00:59:40.353Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\IMG_20190119_161046.jpg'
+2019-07-26T00:59:42.318Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\Screenshot_20190724_140810_com.iflytek.elpmobile.marktool.jpg'
+2019-07-26T00:59:44.325Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\Screenshot_20190724_140810_com.iflytek.elpmobile.marktool.jpg'
+2019-07-26T00:59:46.263Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\Screenshot_20190724_140810_com.iflytek.elpmobile.marktool.jpg'
+2019-07-26T00:59:48.048Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\Screenshot_20190724_140810_com.iflytek.elpmobile.marktool.jpg'
+2019-07-26T00:59:50.149Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\wx_camera_1563806120896.jpg'
+2019-07-26T00:59:52.746Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\wx_camera_1563806120896.jpg'
+2019-07-26T00:59:55.654Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\wx_camera_1563806120896.jpg'
+2019-07-26T01:00:20.817Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\1560947463701.jpg'
+2019-07-26T01:05:20.253Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\1560947463701.jpg'
+2019-07-26T01:05:24.557Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\1560947463701.jpg'
+2019-07-26T01:40:15.137Z error: ENOENT: no such file or directory, rmdir 'F:\research\backend\users\1\wx_camera_1564014673913.jpg'
+2019-07-26T08:11:52.603Z error: ER_BAD_NULL_ERROR: Column 'question_id' cannot be null
+2019-07-26T10:49:15.613Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-07-30T01:49:23.870Z error: ER_DATA_TOO_LONG: Data too long for column 'create_time' at row 1
+2019-07-30T01:49:24.274Z error: ER_DATA_TOO_LONG: Data too long for column 'create_time' at row 1
+2019-07-30T01:57:46.483Z error: ER_DATA_TOO_LONG: Data too long for column 'create_time' at row 1
+2019-08-05T05:35:57.806Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-08-05T05:42:09.157Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-08-06T01:23:35.842Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-08-30T11:54:46.892Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-08-30T11:55:14.890Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-08-30T11:57:46.018Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-08-30T11:59:18.036Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-08-30T11:59:54.571Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-09-02T12:47:29.166Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-09-17T01:59:13.278Z error: Cannot read property 'map' of undefined
+2019-09-17T02:01:00.352Z error: Cannot read property 'map' of undefined
+2019-09-17T02:02:25.607Z error: Cannot read property 'map' of undefined
+2019-09-17T02:18:52.607Z error: Cannot read property 'join' of undefined
+2019-09-17T06:20:16.851Z error: Cannot read property 'map' of undefined
+2019-09-17T06:22:36.794Z error: Cannot read property 'map' of undefined
+2019-09-17T06:23:41.098Z error: Cannot read property 'map' of undefined
+2019-09-17T06:25:16.908Z error: Cannot read property 'map' of undefined
+2019-09-17T06:27:27.815Z error: Cannot read property 'map' of undefined
+2019-09-17T06:30:31.292Z error: Cannot read property 'map' of undefined
+2019-09-17T06:33:54.523Z error: Cannot read property 'map' of undefined
+2019-09-17T06:34:46.277Z error: Cannot read property 'map' of undefined
+2019-09-17T06:37:08.478Z error: Cannot read property 'map' of undefined
+2019-09-17T06:45:24.031Z error: Cannot read property 'map' of undefined
+2019-09-17T06:46:42.105Z error: Cannot read property 'map' of undefined
+2019-09-17T06:48:51.375Z error: questionList.map is not a function
+2019-09-17T07:10:14.906Z error: result.join is not a function
+2019-09-17T07:27:24.914Z error: stemImg is not defined
+2019-09-17T07:27:52.707Z error: stemImg is not defined
+2019-09-17T07:30:55.478Z error: stemImg is not defined
+2019-09-17T07:31:23.477Z error: stemImg is not defined
+2019-09-18T12:32:00.576Z error: EEXIST: file already exists, mkdir 'F:\research\express_project\user_disk\1'
+2019-09-18T12:32:11.743Z error: EEXIST: file already exists, mkdir 'F:\research\express_project\user_disk\1'
+2019-09-19T01:24:41.339Z error: EEXIST: file already exists, mkdir 'F:\research\express_project\user_disk\1'
+2019-09-19T01:28:27.161Z error: EEXIST: file already exists, mkdir 'F:\research\express_project\user_disk\1'
+2019-09-19T01:45:12.113Z error: EEXIST: file already exists, mkdir 'F:\research\express_project\user_disk\1'
+2019-09-19T01:45:22.338Z error: EEXIST: file already exists, mkdir 'F:\research\express_project\user_disk\1'
+2019-09-19T02:06:12.846Z error: result.join is not a function
+2019-09-19T02:37:26.447Z error: result.join is not a function
+2019-09-19T02:42:14.145Z error: result.join is not a function
+2019-09-19T05:52:01.762Z error: result.join is not a function
+2019-09-19T05:52:33.496Z error: result.join is not a function
+2019-09-19T06:05:16.979Z error: result.join is not a function
+2019-09-19T06:07:02.555Z error: EEXIST: file already exists, mkdir 'F:\research\express_project\user_disk\1'
+2019-09-20T07:29:28.606Z error: result.join is not a function
+2019-10-09T09:37:29.135Z error: ENOENT: no such file or directory, unlink 'F:\research\express_project\user_video\1\cDu051ss8-JzZdIOyrEUnsEv.mp4'
+2019-10-29T07:56:28.859Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-10-29T08:02:16.694Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-10-29T08:04:07.606Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-10-29T08:06:18.932Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-10-29T08:09:38.429Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-10-29T08:20:17.880Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-10-29T08:24:03.719Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-11-05T08:36:11.785Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-11-05T08:36:17.274Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-11-05T08:36:22.923Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-11-13T13:39:59.509Z error: ER_BAD_NULL_ERROR: Column 'uid' cannot be null
+2019-11-13T13:41:54.211Z error: ER_BAD_NULL_ERROR: Column 'uid' cannot be null
+2019-11-13T13:56:11.166Z error: ER_BAD_FIELD_ERROR: Unknown column 'function_descibe' in 'field list'
+2019-11-13T13:57:21.510Z error: ER_BAD_FIELD_ERROR: Unknown column 'function_descibe' in 'field list'
+2019-11-13T13:58:13.241Z error: ER_BAD_FIELD_ERROR: Unknown column 'function_descipe' in 'field list'
+2019-11-13T13:58:54.390Z error: ER_NO_DEFAULT_FOR_FIELD: Field 'appid' doesn't have a default value
+2019-11-13T13:59:56.226Z error: ER_NO_SUCH_TABLE: Table 'research.t_app_version' doesn't exist
+2019-11-14T12:42:14.261Z error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2019-11-14T12:55:34.869Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)' at line 1
+2019-11-14T13:01:00.172Z error: ER_BAD_FIELD_ERROR: Unknown column 'uid' in 'where clause'
+2019-11-14T13:13:20.368Z error: ER_TRUNCATED_WRONG_VALUE: Truncated incorrect DOUBLE value: '2,1'
+2019-11-14T13:18:56.556Z error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2019-11-15T12:01:35.770Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+2019-11-15T12:03:18.642Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+2019-11-18T08:56:10.083Z error: ER_BAD_FIELD_ERROR: Unknown column 'uid' in 'where clause'
+2019-11-22T12:48:26.504Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-11-22T12:48:28.591Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-11-22T12:48:28.675Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-11-22T12:48:29.010Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-11-25T13:31:47.649Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-11-27T11:25:17.905Z error: EEXIST: file already exists, mkdir 'F:\research\express_project\public\user_disk\1'
+2019-11-27T12:25:11.071Z error: EEXIST: file already exists, mkdir 'F:\research\express_project\public\user_disk\1'
+2019-11-28T08:24:23.341Z error: ER_BAD_FIELD_ERROR: Unknown column 'function_descripe' in 'field list'
+2019-12-02T07:29:34.226Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-12-02T07:29:37.906Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-12-02T07:29:38.936Z error: connect ECONNREFUSED 127.0.0.1:3306
+2019-12-02T07:29:59.474Z error: connect ECONNREFUSED 127.0.0.1:3306
