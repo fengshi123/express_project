@@ -1,0 +1,37 @@
+{
+    "apps": {
+        "name": "express_project",
+        "script": "app.js",
+        "cwd": "./",
+        "interpreter": "",
+        "interpreter_args": "",
+        "watch": true,
+        "ignore_watch": [
+            "node_modules",
+            "public"
+        ],
+        "exec_mode": "cluster_mode",
+        "instances": "max",
+        "max_memory_restart": "100M",
+        "error_file": "./logs/app-err.log",
+        "out_file": "./logs/app-out.log",
+        "merge_logs": true,
+        "log_date_format": "YYYY-MM-DD HH:mm:ss",
+        "min_uptime": "60s",
+        "max_restarts": 30,
+        "autorestart": true,
+        "restart_delay": "60",
+        "env": {
+            "NODE_ENV": "production",
+            "REMOTE_ADDR": ""
+        },
+        "env_dev": {
+            "NODE_ENV": "development",
+            "REMOTE_ADDR": ""
+        },
+        "env_test": {
+            "NODE_ENV": "test",
+            "REMOTE_ADDR": ""
+        }
+    }
+}
