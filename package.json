@@ -20,7 +20,7 @@
     "fs-extra": "^8.1.0",
     "http-errors": "~1.6.2",
     "jade": "~1.11.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.24.0",
     "morgan": "~1.9.0",
     "multiparty": "^4.2.1",
